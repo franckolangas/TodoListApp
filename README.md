@@ -1,26 +1,25 @@
-# Application de Gestion de Tâches 📋
+# ✅ Application de Gestion de Tâches (TodoListApp)
 
-Une application mobile de gestion de tâches et sous-tâches développée avec **React Native**. Elle permet aux utilisateurs de créer, gérer et organiser leurs tâches avec une interface intuitive.
+Une application web permettant aux utilisateurs de gérer leurs tâches et sous-tâches avec une interface moderne et intuitive.
 
-## 📌 Fonctionnalités
+## 🚀 Fonctionnalités
 
-- ✅ **Ajout, modification et suppression** de tâches
-- 📌 **Gestion des sous-tâches** associées à une tâche principale
-- 📅 **Affichage d'une liste de tâches** avec mise à jour en temps réel
-- 🎨 **Interface utilisateur moderne et responsive**
-- 📱 **Déploiement mobile avec Expo**
+- 📋 Affichage d’une liste de tâches
+- ➕ Ajout, modification et suppression de tâches
+- 📂 Gestion des sous-tâches
+- 🎨 Interface utilisateur responsive et fluide avec React
+- 💾 Sauvegarde des tâches dans le stockage local (localStorage)
 
 ## 🛠️ Technologies Utilisées
 
-- **React Native** avec Expo
-- **JavaScript (ES6)**
-- **React Navigation** pour la gestion des écrans
-- **AsyncStorage** pour la sauvegarde locale des tâches
-- **Styled-components** pour le design
+- **React** (Framework Front-end)
+- **JavaScript** (Langage de programmation)
+- **CSS / TailwindCSS** (Stylisation)
+- **LocalStorage** (Sauvegarde locale des tâches)
 
-## 🚀 Installation et Lancement
+## 📦 Installation et Exécution
 
-1. **Cloner le projet**
-   ```sh
-   git clone https://github.com/franckolangas/TodoListApp.git
-   cd TodoListApp
+1. **Cloner le projet**  
+```sh
+git clone https://github.com/franckolangas/TodoListApp.git
+cd TodoListApp
